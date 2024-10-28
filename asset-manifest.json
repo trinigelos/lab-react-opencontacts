@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-router-dom-training/static/css/main.56294027.css",
+    "main.js": "/React-router-dom-training/static/js/main.cbe10a58.js",
+    "static/js/787.7a83cd98.chunk.js": "/React-router-dom-training/static/js/787.7a83cd98.chunk.js",
+    "index.html": "/React-router-dom-training/index.html",
+    "main.56294027.css.map": "/React-router-dom-training/static/css/main.56294027.css.map",
+    "main.cbe10a58.js.map": "/React-router-dom-training/static/js/main.cbe10a58.js.map",
+    "787.7a83cd98.chunk.js.map": "/React-router-dom-training/static/js/787.7a83cd98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56294027.css",
+    "static/js/main.cbe10a58.js"
+  ]
+}
